@@ -1,0 +1,53 @@
+
+
+.imagem {
+    
+    height: 100%;
+    width:100%;
+}
+.imagem2 {
+    
+     height:75%;
+     width:60%;
+     position: relative;
+     left: 20%;
+}
+.titulo {
+    color: blue
+}
+.container-fluid {
+    color: blue;
+}
+.butao {
+    color: black;
+    position: relative;
+    left: 420px;
+}
+.texto1 {
+    font-size: medium;
+    position: relative;
+    right: 20%;
+    left: 1.5px;
+}
+.barra{
+    position: relative;
+    left: 414px;
+}
+
+.fotocont {
+    height: 30%;
+    width: 30%;
+    position: relative;
+    left: 20px;
+}
+.contato {
+    float: left;
+}
+.mapa {
+    height: 100%;
+    width: 80%;
+}
+.mapatitu{
+    position: relative;
+    left: 200px;
+}
