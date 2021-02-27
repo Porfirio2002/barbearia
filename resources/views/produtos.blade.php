@@ -20,25 +20,15 @@
             <form class="d-flex">
               <input class="barra" type="search" placeholder="Search" aria-label="Search">
               <button class="butao" type="submit">buscar</button>
+
+              
+              <footer>
+                <div class="footer">
+                  <p>TODOS OS DIREITOS RESERVADOS &copy;</p>
+          
+                  </div>
+              </footer>
             </form>
           </div>
         </div>
       </nav>
-      <h1>Barbearia</h1>
-      <p class="texto1">Criado em janeiro de 2012, a Barbearia Bandeira está localizada no Brasília Shopping, Terraço Shopping, Boulevard Shopping e no Venâncio Shopping, voltado exclusivamente para atender o público masculino. Ampliando o conceito de uma barbearia tradicional, a Barbearia Bandeira tem em seu portfólio, serviços de estética e beleza com a marca internacional Barbasol.
-    </p>
-    <p class="texto1">Um lugar para homens de bom gosto, preocupados com o seu visual. Foi pensando nessas características que nasceu em Brasília um novo conceito de barbearia.
-        Na Barberia Bandeira o bom atendimento e a qualidade dos serviços estão sempre em primeiro lugar.
-    </p>
-    <img  class="imagem2" src="./imagen/06.jpg" alt="">
-    <br>
-
-    <footer>
-      <div class="footer">
-        <p>TODOS OS DIREITOS RESERVADOS &copy;</p>
-
-        </div>
-    </footer>
-    
-</body>
-</html>

@@ -12,6 +12,9 @@ class SiteController extends Controller
     public function horario(){
         return view('horario');
     }
+    public function produtos(){
+        return view('produtos');
+    }
     
     
 }   
